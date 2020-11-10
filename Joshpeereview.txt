@@ -2,10 +2,11 @@ Interesting content:
   Good levels of information. The reader is not overloaded with information.
 
 Good consistent visual presentation:
-  Well balanced with pictures and videos
+  Well balanced with pictures and videos.
+  Would be nice if the reference links were hidden behind text or on a seperate page. Feel like the reference pane takes up too much of the page.
 
 Good written presentation:
-  Content is educational and interesting
+  Content is educational and interesting. Using diagrams to help explain whats happening
 
 
 Valid HTML:
