@@ -10,7 +10,7 @@ Good written presentation:
 
 
 Valid HTML:
-
+Very well structured HTML. potentially copied source code?
 
 
 Author info not to be written by the author:
